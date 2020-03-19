@@ -1,2 +1,2 @@
-# Leet-Code_Exercises-C-
-Leetcode exercises completed in c++
+# Leet-Code_Exercises-C++
+Leetcode exercises accepted in c++
